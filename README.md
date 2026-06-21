@@ -32,8 +32,8 @@ Los alimentos se guardar automaticamente en la etapa de la comida seleccionada:
 - Post-cena
 
 ## IDEAS FUTURAS
-Historial Diario
-Calculo de Calorias segun objetivo (Volumen o Definicion / Peso / altura / Actividad )
-Calendario donde te ponga un resumen de ese dia
-Grafica diaria de Progreso de Macronutrientes
+- Historial Diario
+- Calculo de Calorias segun objetivo (Volumen o Definicion / Peso / altura / Actividad )
+- Calendario donde te ponga un resumen de ese dia
+- Grafica diaria de Progreso de Macronutrientes
   
